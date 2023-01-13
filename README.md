@@ -23,7 +23,7 @@
 #### 2. 환경
 * ROS (ROS1_melodic)
 * Linux (Ubuntu_18.04, Debian_buster)
-* Intel NUC 10
+* Intel NUC 10 (mobility setup)
 
 
 #### 3. 프로젝트 관리 도구
@@ -43,9 +43,11 @@
 >## 기능별 분류
 
 
-### 1. 실내 측위를 위한 3D맵 생성
+### 1. 실내 3D맵 생성
 * SLAM
-  * Lidar sensor
+  * LiDAR sensor (Intel Realsense L515)
+
+
 
 
 * 좌표계
