@@ -3,12 +3,9 @@
 
 *(gif 로딩에 다소 시간이 걸릴 수 있습니다.)*
 
+>## ABOUT
 ![ssl_slam](https://user-images.githubusercontent.com/114387230/212218035-0ad2c0ae-703e-44c8-815f-914bdd07ff20.gif)
 
->## ABOUT
-
-<p align="center">
-  <img src="doc/slam.gif">
 </p>
 <p align="center">
   SLAM & Wall-Follower
