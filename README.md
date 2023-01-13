@@ -1,4 +1,4 @@
-# QR코드를 화물로 표현하여 QR코드를 인식시켜 무인이동체를 이동시키는 기술
+# QR코드를 인식시켜 무인이동체를 이동시키는 기술
 *무인이동체를 활용한 인공지능 자율주행(K-Digital) 프로젝트"
 
 *(gif 로딩에 다소 시간이 걸릴 수 있습니다.)*
@@ -8,7 +8,7 @@
 
 </p>
 <p align="center">
-  SLAM & Wall-Follower
+  SLAM
 </p>
 
 
@@ -18,7 +18,7 @@
 
 #### 1. 언어
 * Python - 구현
-* C, C++ - 코드리뷰
+* C, C++ - 코드참고
 
 #### 2. 환경
 * ROS (ROS1_melodic)
@@ -53,9 +53,14 @@
 
 
 
-### 2. 맵 생성과 가이드를 위한 Autonomous 주행
-* 'D*' 주행 알고리즘
+### 2. 프로젝트를 위한 초기 활동
+![turtlebot3](https://user-images.githubusercontent.com/114387230/212233522-a1134c47-a621-4170-8344-1892976cc32d.gif)
 
+* https://github.com/ROBOTIS-GIT/turtlebot3_simulations
+  * 터틀봇 시뮬레이터 패키지 - 터틀심
+    * 실제 기능 적용 이전 시뮬레이션 테스트
+    * Node, topic, service 구조 파악
+    * 가상의 무인이동체를 통해 벽 인지, 맵핑의 구조 파악
 
 
 ### 3. 관리자 GUI
@@ -74,7 +79,7 @@
 
 ### 6. 객체 인식 & 인식을 위한 분류 모델 생성
 * 객체 인식
-
+ * 
 * 모델 생성
 
 * Auto Labeling
@@ -140,12 +145,7 @@
     
 
 
->## References
 
-https://github.com/ROBOTIS-GIT/turtlebot3_simulations
-  * 터틀봇 시뮬레이터 패키지 - 터틀심
-    * 실제 기능 적용 이전 시뮬레이션 테스트
-    * Node, topic, service 구조 파악
 
 ----------
 
