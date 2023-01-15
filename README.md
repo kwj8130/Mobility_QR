@@ -139,6 +139,8 @@ Reference Site
 
 ## 4. Python 코드 제작에 사용한 패키지
 * Visual Studio Code : 코드구성 및 수정 프로그램
+
+
 **library used**
 
         1. install pyzbar
