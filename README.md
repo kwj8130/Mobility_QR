@@ -47,7 +47,7 @@
 ![Realsense](https://user-images.githubusercontent.com/114387230/212526639-5fc386f1-2b85-421b-ad3c-71f8048e7313.png)
 
 
-* Logitech C920 PRO HD WEBCAM
+* Logitech C920 PRO HD Webcam
 
 
 ![Logitech](https://user-images.githubusercontent.com/114387230/212528217-af000c9f-60c0-41c4-af03-ea1465ad1979.png)
