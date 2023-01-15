@@ -162,19 +162,9 @@ Reference Site
 
 
 
->## 프로젝트 관리
-* Simulator 1 (https://github.com/ROBOTIS-GIT/turtlebot3_simulations)
-* Simulator 2 (https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/)
-  * 실제 이동체에 적용하기 전 시뮬레이션 환경에서 알고리즘 테스트 실시
-  
-* Visual Studio Code, Python
-  * 코드 작성 및 참고
-  
-* Slack - 팀원들과의 커뮤니케이션
 
 
-
-># 미구현 및 개선사항
+>## 미구현 및 개선사항
 
 ## 저장된 맵 정보를 불러온 뒤 정상적으로 작동하는 기능 구현 미완성
   * 미완성 사유
