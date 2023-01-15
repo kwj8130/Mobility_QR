@@ -89,7 +89,20 @@
     * 가상의 무인이동체를 통해 벽 인지, 맵핑 방식을 파악
 
 
-### 3. 관리자 GUI
+### 3. OS 설치
+* Ubuntu 18.04 Installation
+
+1. ROS Installation
+2. Reference Site 
+<<https://wiki.ros.org/melodic/Installation/Ubuntu>> 1.2 ~ 1.6.1 Installation
+
+3. scout_mini SDK Installation
+Reference Site 
+<<https://github.com/agilexrobotics/ugv_sdk>>
+
+4. scout_mini Package installation
+Reference Site
+<<https://github.com/agilexrobotics/scout_ros>>
 
 
 ### 4. 맵, 기준좌표, 객체 위치 좌표 확인
