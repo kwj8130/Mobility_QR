@@ -1,11 +1,9 @@
-# QR코드를 인식시켜 무인이동체를 이동시키는 것을 목표로 진행
+# QR코드를 인식시켜 무인이동체를 이동
 *무인이동체를 활용한 인공지능 자율주행(K-Digital) 프로젝트"
 
 *(gif 로딩에 다소 시간이 걸릴 수 있습니다.)*
 
 >## ABOUT
-
-
 
 
 ### Tech Base
@@ -143,7 +141,7 @@ Reference Site
 
 
 
-## Python코드 제작
+## Python Code Package Install
 
 **library used**
 
