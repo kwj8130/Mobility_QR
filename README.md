@@ -52,6 +52,7 @@
 
 
 * Intel Realsense L515
+
   * LiDAR 기능을 활용
   * Camera 기능이 포함되어 Mobility의 벽 타기 및 QR인식
 
