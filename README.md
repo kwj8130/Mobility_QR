@@ -36,7 +36,7 @@
   * 제작한 코드들을 활용하기 위한 장치
 
 
-![nuc-10_5_57a91428-c654-4ff7-9075-35a9e791f070_1200x1200_crop_center](https://user-images.githubusercontent.com/114387230/212526428-06ea9f71-5e1e-44b2-bef5-f636dc1d1ded.jpg)
+![크기변환 nuc-10_5_57a91428-c654-4ff7-9075-35a9e791f070_1200x1200_crop_center](https://user-images.githubusercontent.com/114387230/212526484-4df0efd5-7497-4847-ab3c-e7bed49e8739.jpg)
 
   
 * Scout Mini
