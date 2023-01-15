@@ -55,22 +55,10 @@
 
 
 
->## 프로젝트 진행단계
+>## 프로젝트 진행
 
 
-### 1. 실내 3D맵 생성
-* SLAM
-  * LiDAR sensor (Intel Realsense L515)
-
-
-
-
-* 좌표계
-  * 위치 분석을 위한 Cartesian coordinate system과 주행 동작을 위한 Quaternions 변환
-
-
-
-### 2. 프로젝트를 위한 초기 활동
+### 1. 프로젝트를 위한 초기 활동
 ![turtlebot3](https://user-images.githubusercontent.com/114387230/212233522-a1134c47-a621-4170-8344-1892976cc32d.gif)
 
 * https://github.com/ROBOTIS-GIT/turtlebot3_simulations
@@ -82,7 +70,7 @@
     * 가상의 무인이동체를 통해 벽 인지, 맵핑 방식을 파악
 
 
-### 3. 프로젝트에 사용된 패키지 설치
+### 2. 프로젝트에 사용된 패키지 설치
 * Ubuntu 18.04 Installation
 
 1. ROS Installation
@@ -109,16 +97,17 @@ Reference Site
          ## test
          $ realsense-viewer
 
-6. SLAM
+6. SLAM Package
 
      **Reference Site**
         <<https://github.com/wh200720041/ssl_slam>>
         
         
-### 4. 맵, 기준좌표, QR인식 확인
+### 3. 맵, 기준좌표, QR인식 확인
   #### 구현된 기능
+  ![ssl_slam](https://user-images.githubusercontent.com/114387230/212218035-0ad2c0ae-703e-44c8-815f-914bdd07ff20.gif)
   1. SLAM
-![ssl_slam](https://user-images.githubusercontent.com/114387230/212218035-0ad2c0ae-703e-44c8-815f-914bdd07ff20.gif)
+
 </p>
   SLAM
 </p>
