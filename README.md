@@ -47,6 +47,11 @@
 ![Realsense](https://user-images.githubusercontent.com/114387230/212526639-5fc386f1-2b85-421b-ad3c-71f8048e7313.png)
 
 
+* Logitech C920 PRO HD WEBCAM
+
+
+![Logitech](https://user-images.githubusercontent.com/114387230/212528217-af000c9f-60c0-41c4-af03-ea1465ad1979.png)
+
 
 >## 프로젝트 진행
 
@@ -96,7 +101,7 @@ Reference Site
         <<https://github.com/wh200720041/ssl_slam>>
         
         
-### 3. 맵, 기준좌표, QR인식 확인
+### 3. 좌표, QR인식 확인
   #### 구현된 기능
   
   1. SLAM
@@ -115,9 +120,9 @@ Reference Site
 
   ![QR Test](https://user-images.githubusercontent.com/114387230/212525835-f2900dcd-9cab-41ae-8cab-58ddfa539769.gif)
   
-              # Explanation - Use pyrealsense2 library #
+            # Explanation - Use pyzbar #
             1) Use the depth value of the 3D lidar camera
-            2) Algorithm designed to display " ,1,2,3,4,5,6,7,8" in each pixel of the image according to the depth value
+            2) Algorithm designed to display "1,2,3,4,5,6,7,8" in each pixel of the image according to the depth value
             3) Determine if an obstacle exists with the value indicated by the algorithm presented
             4) Control the speed and angle of the scout MINI to avoid obstacles
             
@@ -146,7 +151,7 @@ Reference Site
 
 
 
-## Python Code Package Install
+## Python 코드 제작에 사용한 패키지
 
 **library used**
 
@@ -157,7 +162,7 @@ Reference Site
         5. install time
 
 
-## Mobility Setting
+## Mobility 세팅
 ● **Modified scout MINI for rail recognition**
 
 
@@ -169,10 +174,6 @@ Reference Site
 
 ![크기변환 Mobility setting](https://user-images.githubusercontent.com/114387230/212528063-eb3ad31e-fed4-4627-8ba3-b61ea4e22f63.png)
 
-
-## 테스크 관리 (Notion)
-
-  
 
 
 ># 미구현 및 개선사항
@@ -190,7 +191,6 @@ Reference Site
 
 
 
-
 ## 객체 인지 모델 정확도 부족
 
 
@@ -198,19 +198,14 @@ Reference Site
 
 ## git, github 기반 프로젝트 진행을 위한 개선점
 
-    
 
 
 
-
-----------
-
->*참고 Reference*
 
 
 
 ----------
-
-프로젝트에 대한 리뷰, 코멘트, 피드백에 늘 배고픕니다 :heart_eyes:
+프로젝트에 대한 리뷰, 코멘트 :heart_eyes:
 
 Made with :fire:Maximum Effort:fire: and Python
+----------
