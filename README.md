@@ -101,8 +101,8 @@ Reference Site
         <<https://github.com/wh200720041/ssl_slam>>
         
         
-### 3. QR인식, 좌표 확인
-  #### 구현된 기능
+### 3. 프로젝트 진행과정
+  #### 구현했던 기능
   
   1. SLAM
 
@@ -124,8 +124,8 @@ Reference Site
 
   ![QR Test](https://user-images.githubusercontent.com/114387230/212525835-f2900dcd-9cab-41ae-8cab-58ddfa539769.gif)
   
-            # Explanation - Use pyzbar #
-            1) python을 이용한 QR코드를 4가지 생성.(qrcode 패키지 활용)
+            # 내용 #
+            1) python을 이용한 임의의 QR코드를 4가지 생성.(qrcode library 활용)
             2) QR코드를 인식하기 위해 pyzbar패키지 설치
             3) Publisher와 Subscriber를 활용해 terminal에 값을 서로 주고받는 코드 작성
             4) Logitech Cam을 사용해 특정 코드를 인식하는지 확인.(state1을 비추면 state1의 값을 계속해서 입력)
@@ -151,16 +151,15 @@ Reference Site
 
 **library used**
 
-        1. install pyzbar
+        1. install cv2
         2. install pyrealsense2
-        3. install numpy
-        4. install cv2
+        3. install pyzbar
+        4. install numpy
         5. install time
 
 
 ## 5. Mobility 세팅
 ● **Modified scout MINI for rail recognition**
-
 
             # Parts Used #
             ● scout MINI : 1
