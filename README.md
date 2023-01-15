@@ -105,8 +105,10 @@ Reference Site
         
 ### 3. 맵, 기준좌표, QR인식 확인
   #### 구현된 기능
-  ![ssl_slam](https://user-images.githubusercontent.com/114387230/212218035-0ad2c0ae-703e-44c8-815f-914bdd07ff20.gif)
+  
   1. SLAM
+  ![ssl_slam](https://user-images.githubusercontent.com/114387230/212218035-0ad2c0ae-703e-44c8-815f-914bdd07ff20.gif)
+  
   
   
   2. QR 인식 & 인식을 위한 분류 모델 생성
