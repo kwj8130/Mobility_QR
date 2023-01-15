@@ -163,8 +163,8 @@ Reference Site
             ● Intel NUC 10 : 1
             ● Intel Realsense L515 : 1
 
-![Mobility Setting (2)](https://user-images.githubusercontent.com/114387230/212528035-e7247809-2ba8-44bf-aa0b-3235b3e548bd.png)
 
+![크기변환 Mobility setting](https://user-images.githubusercontent.com/114387230/212528063-eb3ad31e-fed4-4627-8ba3-b61ea4e22f63.png)
 
 
 ## 테스크 관리 (Notion)
