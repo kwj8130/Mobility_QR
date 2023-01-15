@@ -154,7 +154,7 @@ Reference Site
         5. install time
 
 
-## Mobility 장착파츠
+## Mobility Setting
 ● **Modified scout MINI for rail recognition**
 
 
@@ -163,8 +163,8 @@ Reference Site
             ● Intel NUC 10 : 1
             ● Intel Realsense L515 : 1
 
+![Mobility Setting (2)](https://user-images.githubusercontent.com/114387230/212528035-e7247809-2ba8-44bf-aa0b-3235b3e548bd.png)
 
-![20230115161211](https://user-images.githubusercontent.com/114387230/212527963-af43d9cb-2253-450b-a775-3cedc3811bfa.png)
 
 
 ## 테스크 관리 (Notion)
