@@ -121,10 +121,10 @@ Reference Site
   ![QR Test](https://user-images.githubusercontent.com/114387230/212525835-f2900dcd-9cab-41ae-8cab-58ddfa539769.gif)
   
             # Explanation - Use pyzbar #
-            1) python을 이용한 QR코드를 4가지 생성.
-            2) QR코드를 인식하기 위해 
-            3) Determine if an obstacle exists with the value indicated by the algorithm presented
-            4) Logitech 캠을 이용해 QR코드가 인식이 되는지 모니터에 코드를 
+            1) python을 이용한 QR코드를 4가지 생성.(qrcode 패키지 활용)
+            2) QR코드를 인식하기 위해 pyzbar패키지 설치
+            3) Publisher와 Subscriber를 활용해 terminal에 값을 서로 주고받는 코드 작성
+            4) Logitech Cam을 사용해 특정 코드를 인식하는지 확인.(state1을 비추면 state1의 값을 계속해서 입력)
             
   
   * QR & Mobility
@@ -170,7 +170,7 @@ Reference Site
 
 ----------
 
-프로젝트에 대한 리뷰, 코멘트 :heart_eyes:
+프로젝트에 대한 리뷰였습니다. :heart_eyes:
 
 Made with :fire:Maximum Effort:fire: and Python
 
