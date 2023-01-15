@@ -45,6 +45,7 @@
   
 * Scout Mini
   * 프로젝트에 활용하기 위한 Mobility
+
 ![176610886-aa75f777-31e0-460b-a51e-7033cd9d9cd2](https://user-images.githubusercontent.com/114387230/212524406-5d35fcac-543c-43ae-815d-d73e4825e9ce.png)
 
 
@@ -53,6 +54,7 @@
 * Intel Realsense L515
   * LiDAR 기능을 활용
   * Camera 기능이 포함되어 Mobility의 벽 타기 및 QR인식
+
 ![176611606-8a1c7cfc-bb6c-4fce-a34e-f3d8a8edf493](https://user-images.githubusercontent.com/114387230/212524370-3d61dd0d-dd90-422f-a7b1-46a323462c0c.png)
 
 
