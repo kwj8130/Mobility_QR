@@ -90,9 +90,9 @@
 ### 3. OS 설치
 * Ubuntu 18.04 Installation
 
-1. ROS Installation
-2. Reference Site 
-<<https://wiki.ros.org/melodic/Installation/Ubuntu>> 1.2 ~ 1.6.1 Installation
+  * ROS Installation
+    *Reference Site 
+      <<https://wiki.ros.org/melodic/Installation/Ubuntu>> 1.2 ~ 1.6.1 Installation
 
 3. scout_mini SDK Installation
 Reference Site 
@@ -102,7 +102,17 @@ Reference Site
 Reference Site
 <<https://github.com/agilexrobotics/scout_ros>>
 
-
+5. intel Realsense L515 SDK installation 
+     **Ubuntu 18.04**
+         
+         $ sudo add-apt-repository "deb http://librealsense.intel.com/Debian/apt-repo bionic main" -u
+         $ sudo apt-get install librealsense2-dkms
+         $ sudo apt-get install librealsense2-utils
+         $ sudo apt-get install librealsense2-dev
+         $ sudo apt-get install librealsense2-dbg
+         
+         ## test
+         $ realsense-viewer
 
 ### 4. 맵, 기준좌표, 객체 위치 좌표 확인
   #### 구현된 기능
