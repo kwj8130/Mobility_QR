@@ -115,9 +115,17 @@ Reference Site
   
   2. QR 인식 & 인식을 위한 분류 모델 생성
 
+
+
   ![QR Test](https://user-images.githubusercontent.com/114387230/212525835-f2900dcd-9cab-41ae-8cab-58ddfa539769.gif)
+  
+  
+  
 
   * QR 인식 테스트
+
+
+
   
   ![QR Depth (1)](https://user-images.githubusercontent.com/114387230/212526322-944bd03c-8781-4733-9a94-5832b912331e.gif)
 
