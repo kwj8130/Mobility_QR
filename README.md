@@ -17,12 +17,11 @@
 
 #### 2. 환경
 * ROS (ROS1_melodic)
-* Linux (Ubuntu_18.04, Debian_buster)
+* Linux (Ubuntu_18.04)
 
 
 #### 3. 프로젝트 관리 도구
 * git, github
-  * repository 생성
   * 프로젝트, 코드 관리
   * 버전관리 및 협업을 Slack 환경에서 실시
     
@@ -35,7 +34,10 @@
 * Intel Nuc 10
   * Scout Mini에 장착
   * 제작한 코드들을 활용하기 위한 장치
-  
+
+
+![nuc-10_5_57a91428-c654-4ff7-9075-35a9e791f070_1200x1200_crop_center](https://user-images.githubusercontent.com/114387230/212526428-06ea9f71-5e1e-44b2-bef5-f636dc1d1ded.jpg)
+
   
 * Scout Mini
   * 프로젝트에 활용하기 위한 Mobility
