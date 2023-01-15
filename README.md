@@ -163,8 +163,7 @@ Reference Site
             ● Intel NUC 10 : 1
             ● Intel Realsense L515 : 1
 
-![20230115161012](https://user-images.githubusercontent.com/114387230/212527850-8098c73a-4867-4938-9e7d-372240eda775.png)
-
+![20230115161103](https://user-images.githubusercontent.com/114387230/212527882-291f84aa-22fd-4450-aeb1-7d4f167425c2.png)
 
 
 ## 테스크 관리 (Notion)
