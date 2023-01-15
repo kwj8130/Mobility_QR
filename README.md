@@ -131,17 +131,17 @@ Reference Site
             4) Logitech Cam을 사용해 특정 코드를 인식하는지 확인.(state1을 비추면 state1의 값을 계속해서 입력)
             
   
-  * QR & Mobility
-
+  * QR & Mobility(Color)
 
  
   ![QR Depth (1)](https://user-images.githubusercontent.com/114387230/212526322-944bd03c-8781-4733-9a94-5832b912331e.gif)
 
 
 
-  * QR & Mobility
+  * QR & Mobility(Depth)
 
 
+  ![depth](https://user-images.githubusercontent.com/114387230/212537688-a9f9a106-741a-4d60-ba48-276895f3d6a5.gif)
 
 
 
