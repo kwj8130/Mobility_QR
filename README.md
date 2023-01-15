@@ -143,9 +143,27 @@ Reference Site
 
 
 
-## 이슈 관리 (Notion)
+## Python코드 제작
+
+**library used**
+
+        1. install pyzbar
+        2. install pyrealsense2
+        3. install numpy
+        4. install cv2
+        5. install time
 
 
+## Mobility 장착파츠
+● **Modified scout MINI for rail recognition**
+
+
+            # Parts Used #
+            ● scout MINI : 1
+            ● Intel NUC 10 : 1
+            ● Intel Realsense L515 : 1
+
+![크기변환 mobility 2](https://user-images.githubusercontent.com/114387230/212527688-8ad9885d-137f-49fb-89b5-17a19b549abb.jpg)
 
 
 ## 테스크 관리 (Notion)
