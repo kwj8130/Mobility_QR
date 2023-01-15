@@ -107,14 +107,15 @@ Reference Site
   #### 구현된 기능
   ![ssl_slam](https://user-images.githubusercontent.com/114387230/212218035-0ad2c0ae-703e-44c8-815f-914bdd07ff20.gif)
   1. SLAM
-
-</p>
-  SLAM
-</p>
-
+  
+  
   2. QR 인식 & 인식을 위한 분류 모델 생성
-  * QR 인식 테스트
 
+  ![QR Test](https://user-images.githubusercontent.com/114387230/212525835-f2900dcd-9cab-41ae-8cab-58ddfa539769.gif)
+
+  * QR 인식 테스트
+  
+  
   * QR & Mobility
 
 
