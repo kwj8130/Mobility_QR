@@ -121,10 +121,10 @@ Reference Site
   ![QR Test](https://user-images.githubusercontent.com/114387230/212525835-f2900dcd-9cab-41ae-8cab-58ddfa539769.gif)
   
             # Explanation - Use pyzbar #
-            1) Use the depth value of the 3D lidar camera
-            2) Algorithm designed to display "1,2,3,4,5,6,7,8" in each pixel of the image according to the depth value
+            1) python을 이용한 QR코드를 4가지 생성.
+            2) QR코드를 인식하기 위해 
             3) Determine if an obstacle exists with the value indicated by the algorithm presented
-            4) Control the speed and angle of the scout MINI to avoid obstacles
+            4) Logitech 캠을 이용해 QR코드가 인식이 되는지 모니터에 코드를 
             
   
   * QR & Mobility
@@ -165,36 +165,6 @@ Reference Site
 
 
 ![크기변환 Mobility setting](https://user-images.githubusercontent.com/114387230/212528063-eb3ad31e-fed4-4627-8ba3-b61ea4e22f63.png)
-
-
-
-
-
->## 미구현 및 개선사항
-
-## 저장된 맵 정보를 불러온 뒤 정상적으로 작동하는 기능 구현 미완성
-  * 미완성 사유
-
-  * Try&Error
-
-  * 기능 대체 구현
-
-  * 향후 개선 방법
-
-
-
-
-
-## 객체 인지 모델 정확도 부족
-
-
-
-
-## git, github 기반 프로젝트 진행을 위한 개선점
-
-
-
-
 
 
 
