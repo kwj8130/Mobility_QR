@@ -32,18 +32,20 @@
 
 #### 4. 사용 도구
 * Intel Nuc 10
+
+
+![크기변환 nuc-10_5_57a91428-c654-4ff7-9075-35a9e791f070_1200x1200_crop_center](https://user-images.githubusercontent.com/114387230/212526553-87b2f682-76e0-4e02-a4d5-d13172ad4fde.jpg)
+
   * Scout Mini에 장착
   * 제작한 코드들을 활용하기 위한 장치
 
 
-![크기변환 nuc-10_5_57a91428-c654-4ff7-9075-35a9e791f070_1200x1200_crop_center](https://user-images.githubusercontent.com/114387230/212526484-4df0efd5-7497-4847-ab3c-e7bed49e8739.jpg)
-
-  
 * Scout Mini
+
+
+![크기변환 176610886-aa75f777-31e0-460b-a51e-7033cd9d9cd2](https://user-images.githubusercontent.com/114387230/212526545-bc2dd72d-2ceb-48a8-850d-2eb7a14c853f.png)
+
   * 프로젝트에 활용하기 위한 Mobility
-
-![176610886-aa75f777-31e0-460b-a51e-7033cd9d9cd2](https://user-images.githubusercontent.com/114387230/212524406-5d35fcac-543c-43ae-815d-d73e4825e9ce.png)
-
 
 
 
