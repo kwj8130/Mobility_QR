@@ -101,7 +101,7 @@ Reference Site
         <<https://github.com/wh200720041/ssl_slam>>
         
         
-### 3. 좌표, QR인식 확인
+### 3. QR인식, 좌표 확인
   #### 구현된 기능
   
   1. SLAM
