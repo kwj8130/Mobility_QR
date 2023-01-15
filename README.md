@@ -29,8 +29,7 @@
 * git, github
   * repository 생성
   * 프로젝트, 코드 관리
-  * ~~버전관리, 협업~~ (Slack)
-    * 버전관리 및 협업을 Slack 환경에서 실시
+  * 버전관리 및 협업을 Slack 환경에서 실시
     
 * Slack
   * 팀원들과의 커뮤니케이션
@@ -82,8 +81,7 @@
 * https://github.com/ROBOTIS-GIT/turtlebot3_simulations
   * 터틀봇 시뮬레이터 패키지 - 터틀심
   
-* 
-  * 터틀봇 시뮬레이터 사용법 튜토리얼
+* 터틀봇 시뮬레이터 사용법 튜토리얼
     * 실제 기능 적용 이전 시뮬레이션 테스트
     * Node, topic, service 구조 파악
     * 가상의 무인이동체를 통해 벽 인지, 맵핑 방식을 파악
@@ -103,6 +101,7 @@ Reference Site
 4. scout_mini Package installation
 Reference Site
 <<https://github.com/agilexrobotics/scout_ros>>
+
 
 
 ### 4. 맵, 기준좌표, 객체 위치 좌표 확인
