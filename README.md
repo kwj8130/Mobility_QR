@@ -4,12 +4,7 @@
 *(gif 로딩에 다소 시간이 걸릴 수 있습니다.)*
 
 >## ABOUT
-![ssl_slam](https://user-images.githubusercontent.com/114387230/212218035-0ad2c0ae-703e-44c8-815f-914bdd07ff20.gif)
 
-</p>
-<p align="center">
-  SLAM
-</p>
 
 
 
@@ -87,12 +82,12 @@
     * 가상의 무인이동체를 통해 벽 인지, 맵핑 방식을 파악
 
 
-### 3. OS 설치
+### 3. 프로젝트에 사용된 패키지 설치
 * Ubuntu 18.04 Installation
 
-  * ROS Installation
-    *Reference Site 
-      <<https://wiki.ros.org/melodic/Installation/Ubuntu>> 1.2 ~ 1.6.1 Installation
+1. ROS Installation
+2. Reference Site 
+<<https://wiki.ros.org/melodic/Installation/Ubuntu>> 1.2 ~ 1.6.1 Installation
 
 3. scout_mini SDK Installation
 Reference Site 
@@ -114,16 +109,26 @@ Reference Site
          ## test
          $ realsense-viewer
 
+6. SLAM
+
+     **Reference Site**
+        <<https://github.com/wh200720041/ssl_slam>>
+        
+        
 ### 4. 맵, 기준좌표, 객체 위치 좌표 확인
   #### 구현된 기능
+  
+![ssl_slam](https://user-images.githubusercontent.com/114387230/212218035-0ad2c0ae-703e-44c8-815f-914bdd07ff20.gif)
+</p>
+<p align="center">
+  SLAM
+</p>
 
 
-### 6. 객체 인식 & 인식을 위한 분류 모델 생성
-* 객체 인식
- * 
-* 모델 생성
+### 6. QR 인식 & 인식을 위한 분류 모델 생성
+* QR 인식 테스트
 
-* Auto Labeling
+* QR & Mobility
 
 
 
