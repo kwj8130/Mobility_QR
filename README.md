@@ -68,7 +68,7 @@
     * 가상의 무인이동체를 통해 벽 인지, 맵핑 방식을 파악
 
 
-### 2. 프로젝트에 사용된 패키지 설치
+### 2. 프로젝트에 사용된 패키지 설치(Mobility)
 * Ubuntu 18.04 Installation
 
 1. ROS Installation
@@ -137,21 +137,7 @@ Reference Site
 
 
 
-
-># 프로젝트 관리
-* Simulator 1 (https://github.com/ROBOTIS-GIT/turtlebot3_simulations)
-* Simulator 2 (https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/)
-  * 실제 이동체에 적용하기 전 시뮬레이션 환경에서 알고리즘 테스트 실시
-  
-* Visual Studio Code, Python
-  * 코드 작성 및 참고
-  
-* Slack - 팀원들과의 커뮤니케이션
-
-
-
-
-## Python 코드 제작에 사용한 패키지
+## 4. Python 코드 제작에 사용한 패키지
 
 **library used**
 
@@ -162,7 +148,7 @@ Reference Site
         5. install time
 
 
-## Mobility 세팅
+## 5. Mobility 세팅
 ● **Modified scout MINI for rail recognition**
 
 
@@ -173,6 +159,18 @@ Reference Site
 
 
 ![크기변환 Mobility setting](https://user-images.githubusercontent.com/114387230/212528063-eb3ad31e-fed4-4627-8ba3-b61ea4e22f63.png)
+
+
+
+>## 프로젝트 관리
+* Simulator 1 (https://github.com/ROBOTIS-GIT/turtlebot3_simulations)
+* Simulator 2 (https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/)
+  * 실제 이동체에 적용하기 전 시뮬레이션 환경에서 알고리즘 테스트 실시
+  
+* Visual Studio Code, Python
+  * 코드 작성 및 참고
+  
+* Slack - 팀원들과의 커뮤니케이션
 
 
 
