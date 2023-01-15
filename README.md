@@ -34,21 +34,19 @@
 * Intel Nuc 10
 
 
-![크기변환 nuc-10_5_57a91428-c654-4ff7-9075-35a9e791f070_1200x1200_crop_center](https://user-images.githubusercontent.com/114387230/212526553-87b2f682-76e0-4e02-a4d5-d13172ad4fde.jpg)
+![NUC](https://user-images.githubusercontent.com/114387230/212526634-fa9e2662-7e2d-4cd7-8fd6-a6d708ddae4b.jpg)
 
 
 * Scout Mini
 
 
-![크기변환 176610886-aa75f777-31e0-460b-a51e-7033cd9d9cd2](https://user-images.githubusercontent.com/114387230/212526545-bc2dd72d-2ceb-48a8-850d-2eb7a14c853f.png)
-
+![Scout](https://user-images.githubusercontent.com/114387230/212526637-13bc967a-cadf-4e52-9ddd-6d33388eeff4.png)
 
 
 * Intel Realsense L515
 
 
-![176611606-8a1c7cfc-bb6c-4fce-a34e-f3d8a8edf493](https://user-images.githubusercontent.com/114387230/212524370-3d61dd0d-dd90-422f-a7b1-46a323462c0c.png)
-
+![Realsense](https://user-images.githubusercontent.com/114387230/212526639-5fc386f1-2b85-421b-ad3c-71f8048e7313.png)
 
 
 
