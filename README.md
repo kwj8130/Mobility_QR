@@ -115,7 +115,12 @@ Reference Site
 
   ![QR Test](https://user-images.githubusercontent.com/114387230/212525835-f2900dcd-9cab-41ae-8cab-58ddfa539769.gif)
   
-  
+              # Explanation - Use pyrealsense2 library #
+            1) Use the depth value of the 3D lidar camera
+            2) Algorithm designed to display " ,1,2,3,4,5,6,7,8" in each pixel of the image according to the depth value
+            3) Determine if an obstacle exists with the value indicated by the algorithm presented
+            4) Control the speed and angle of the scout MINI to avoid obstacles
+            
   
   * QR & Mobility
 
