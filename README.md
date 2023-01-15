@@ -115,20 +115,18 @@ Reference Site
         <<https://github.com/wh200720041/ssl_slam>>
         
         
-### 4. 맵, 기준좌표, 객체 위치 좌표 확인
+### 4. 맵, 기준좌표, QR인식 확인
   #### 구현된 기능
-  
+  1. SLAM
 ![ssl_slam](https://user-images.githubusercontent.com/114387230/212218035-0ad2c0ae-703e-44c8-815f-914bdd07ff20.gif)
 </p>
-<p align="center">
   SLAM
 </p>
 
+  2. QR 인식 & 인식을 위한 분류 모델 생성
+  * QR 인식 테스트
 
-### 6. QR 인식 & 인식을 위한 분류 모델 생성
-* QR 인식 테스트
-
-* QR & Mobility
+  * QR & Mobility
 
 
 
@@ -152,12 +150,6 @@ Reference Site
 
 
 ## 테스크 관리 (Notion)
-
-
-
-
-## 커뮤니케이션 관리 (Slack)
-* 커뮤니케이션
 
   
 
