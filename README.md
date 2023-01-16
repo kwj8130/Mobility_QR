@@ -119,7 +119,7 @@ Reference Site
 
 
 
-  * QR 인식 테스트
+  * QR 인식 테스트(qr_sensor)
 
 
   ![QR Test](https://user-images.githubusercontent.com/114387230/212525835-f2900dcd-9cab-41ae-8cab-58ddfa539769.gif)
